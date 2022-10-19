@@ -9,3 +9,7 @@ Demo of 2D convolution utility with a few example images and filters.
 ## radon-transform-demo
 
 Demo of the 2D Radon Transform, starting with single line integrals then full 2D sinograms with line integral pixel values.
+
+![Line profile example](radon-transform-demo/examples/line_profile.png)
+
+![2D Radon Transform example](radon-transform-demo/examples/sino.png)

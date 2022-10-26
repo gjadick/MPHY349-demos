@@ -2,6 +2,8 @@
 
 A collection of interactive Jupyter notebooks to demonstrate concepts for the course MPHY34900 "Mathematics for Medical Physics."
 
+![Backprojection animation](backprojection-demo/examples/fbp_animation.gif)
+
 ## image-filter-demo
 
 Demo of 2D convolution utility with a few example images and filters. 

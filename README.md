@@ -4,9 +4,15 @@ A collection of interactive Jupyter notebooks to demonstrate concepts for the co
 
 ![Backprojection animation](backprojection-demo/examples/fbp_animation.gif)
 
+
 ## image-filter-demo
 
-Demo of 2D convolution utility with a few example images and filters. 
+Demo of 2D convolution utility with a few example images and filters. For example uniform kernels create blur (reducing noise), or a Sobel filter detects edges along a given orientation.
+
+![Blur convolution](image-filter-demo/examples/ones_7.png')
+
+![Sobel convolution](image-filter-demo/examples/sobel_v.png')
+
 
 ## radon-transform-demo
 
@@ -15,6 +21,7 @@ Demo of the 2D Radon Transform, starting with single line integrals then full 2D
 ![Line profile example](radon-transform-demo/examples/line_profile.png)
 
 ![2D Radon Transform example](radon-transform-demo/examples/sino.png)
+
 
 ## backprojection-demo
 

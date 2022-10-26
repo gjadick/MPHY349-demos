@@ -9,9 +9,9 @@ A collection of interactive Jupyter notebooks to demonstrate concepts for the co
 
 Demo of 2D convolution utility with a few example images and filters. For example uniform kernels create blur (reducing noise), or a Sobel filter detects edges along a given orientation.
 
-![Blur convolution](image-filter-demo/examples/ones_7.png')
+![Blur convolution](image-filter-demo/examples/ones_7.png)
 
-![Sobel convolution](image-filter-demo/examples/sobel_v.png')
+![Sobel convolution](image-filter-demo/examples/sobel_v.png)
 
 
 ## radon-transform-demo

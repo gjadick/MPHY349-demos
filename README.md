@@ -31,3 +31,10 @@ Demo of 2D backprojection, inverting the output sinograms from radon-transform-d
 
 ![Reconstruction comparison](backprojection-demo/examples/fbp_536.png)
 
+
+## noise-demo
+
+Demonstration of signal vs. background for different signal-to-noise ratios.
+
+![SNR comparison](noise-demo/examples/snr.png)
+
